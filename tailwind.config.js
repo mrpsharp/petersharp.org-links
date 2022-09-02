@@ -10,6 +10,10 @@ module.exports = {
         '3': '3px',
       },
     },
+    fontFamily: {
+    'sans': ['Noto Sans', 'sans-serif'],
+    'serif': ['Noto Serif', 'ui-serif'],
+    }
   },
   variants: {
     extend: {},
