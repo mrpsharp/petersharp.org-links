@@ -16,15 +16,15 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
       
         # CUSTOM LINK
-  - Name: 'Peter Sharp Educatation Homepage'
-    URL: https://petersharp.eduation
+  - Name: 'Peter Sharp Education Homepage'
+    URL: https://petersharp.education
     Icon-Class: fas fa-link
     Color: '#3222bd'
     Text_Color: '#ffffff'
 
     # CUSTOM LINK
   - Name: 'Peter Sharp Educatation Blog'
-    URL: https://blog.petersharp.eduation
+    URL: https://blog.petersharp.education
     Icon-Class: fas fa-link
     Color: '#ffffff'
     Text_Color: '#3222bd'
@@ -43,12 +43,12 @@ links:
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
-   # EMAIL
-  - Name: Email
-    URL: 'mailto:peter@petersharp.education'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
+  #  # EMAIL
+  # - Name: Email
+  #   URL: 'mailto:peter@petersharp.education'
+  #   Icon-Class: fas fa-envelope
+  #   Color: '#e17055'
+  #   Text_Color: '#ffffff'
 
     # MESSENGER
   - Name: Messenger
@@ -67,7 +67,7 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: mrpsharp
+    Username: petersharp.education
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
