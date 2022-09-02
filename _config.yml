@@ -5,10 +5,10 @@ name: Peter Sharp
 tagline: I am a teacher, educational consultant and school governor. I run Peter Sharp Education, Supporting students through Physics A-Level and on to university.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: /assets/images/profilesq.jpg
+Image_URL: https://mrpsharp.github.io/petersharp.org-links/assets/images/profilesq.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: /assets/images/bg.jpg
+Cover_Image: https://mrpsharp.github.io/petersharp.org-links/assets/images/bg.jpg
 
 # SOCIAL MEDIA
 links:
